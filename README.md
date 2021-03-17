@@ -7,9 +7,9 @@
   Um pequeno Script para automatizar a busca e download de artigos no Sci-Hub.
     <br />
   <br />
-  <a href="https://github.com/Ttytamaki/Wpp_SpamBot/tree/main/SpamBot.exe">Executável</a>
+  <a href="https://github.com/Ttytamaki/SciHub_Downloader/tree/main/Downloader.exe">Executável</a>
     ·
-    <a href="https://github.com/Ttytamaki/Wpp_SpamBot/tree/main/Script">Script</a>
+    <a href="https://github.com/Ttytamaki/SciHub_Downloader/tree/main/Script">Script</a>
   </p>
 </p>
 
@@ -35,18 +35,19 @@
 
 
 ## O que é:
-Um pequeno código escrito em *python* que lhe permite automatizar o envio de mensagens para qualquer contato que esteja dentre os mais recentes.
+Um pequeno código escrito em *python* que lhe permite automatizar download de artigos através do site Sci-Hub.
 <br />
-Você também é capaz de controlar **quantas** mensagens você deseja enviar (rs);
+Você pode escolher por DOI, Link, ou até mesmo pelo nome dos artigos;
 <br />
 
 
 ## Como usar:
-1) **Baixe** o arquivo "*SpamBot.rar*"" e extraia ele para uma pasta do seu computador;
-2) Abra o executável: *wpp.exe*, na pasta *dist*;
-3) O executável irá abrir uma janela do Chrome e, então, irá acessar o site do **web whatsapp**;
-4) Logue no seu Wpp, através do QR code (forma padrão de acesso);
-5) Caso dê o erro: 
+1) **Baixe** o arquivo "*Sci-Hub Download.rar*"" e extraia ele para uma pasta do seu computador;
+2) Abra o executável: *dwnld.exe*, na pasta *dist*;
+3) O executável irá abrir uma janela do Chrome e, então, basta seguir os passos que aparecem;
+4) Escolha qual pasta você vai querer usar como base (para armazenar os downloads);
+5) Escolha agora se você quiser DOI, Link, ou o nome do artigo;
+6) Caso dê o erro: 
 "USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema nÒo estß funcionando"
 Basta ir para linha abaixo, logo após do aviso, e digitar: **y** ou **Y**, como mostra a foto abaixo:
 
@@ -54,7 +55,7 @@ Basta ir para linha abaixo, logo após do aviso, e digitar: **y** ou **Y**, como
   <img align='center' src="img/1.png">
     </p>
     
-6) Próximo passo é seguir o que o executável te indica: escolher o nome de quem você quer spammar, mensagem, número de vezes que você quer mandar e etc.;
+6) Próximo passo é seguir o que o executável te indica;
 7) Repita quantas vezes quiser e, quando quiser parar, basta inserir "**n**", "**N**";
 
 
