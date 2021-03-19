@@ -25,6 +25,7 @@
       <a href="#como-usar">Como Usar</a>
     </li>
     <li><a href="#bugs-conhecidos">Bugs Conhecidos</a></li>
+    <li><a href="#to-do"> To-Do</a></li>
   </ol>
 </details>
 
@@ -68,6 +69,18 @@ Há um erro conhecido na atual versão do bot:
 Esse erro é um bug da atual versão do ChromeDrive;
 Não se preocupe! Caso aconteça, basta fazer o seguinte:
 - Vá para a linha logo abaixo, a primeira abaixo do texto e digite: **y** ou **Y**;
+
+
+
+## To-do:
+
+
+- [ ] Aprimorar Download pelo Sci-Hub
+   - [ ] Listas de Links/DOIs/Nomes;
+   - [ ] Renomear Arquivos livremente
+- [ ] Expandir para Downloads pelo Libgen
+
+Para sugestões ou dicas, me envia um [e-mail](mailto:eduardo.rtamaki@gmail.com?subject=[GitHub]%20Source%20SciHub%20Dwnld) :)
 
 <br />
 
