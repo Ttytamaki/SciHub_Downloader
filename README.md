@@ -79,6 +79,7 @@ Não se preocupe! Caso aconteça, basta fazer o seguinte:
    - [ ] Listas de Links/DOIs/Nomes;
    - [ ] Renomear Arquivos livremente
 - [ ] Expandir para Downloads pelo Libgen
+- [ ] Criar uma interface (quem sabe, se o Mestrado deixar rs)
 
 Para sugestões ou dicas, me envia um [e-mail](mailto:eduardo.rtamaki@gmail.com?subject=[GitHub]%20Source%20SciHub%20Dwnld) :)
 
