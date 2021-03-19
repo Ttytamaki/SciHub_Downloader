@@ -52,7 +52,7 @@ Você pode escolher por DOI, Link, ou até mesmo pelo nome dos artigos;
 Basta ir para linha abaixo, logo após do aviso, e digitar: **y** ou **Y**, como mostra a foto abaixo:
 
 <p align="center">
-  <img align='center' src="img/1.png">
+  <img align='center' src="Img/1.png">
     </p>
     
 6) Próximo passo é seguir o que o executável te indica;
