@@ -1,5 +1,5 @@
 <p align="center">
-  <img align='center' src="https://media.giphy.com/media/5h5S1bsrCkXy93X1Eh/giphy.gif" width="90">
+  <img align='center' src="https://media.giphy.com/media/QBkKFl1WM4hSQNSxUM/giphy.gif" width="90">
     <h3 align="center"> Sci-Hub Downloader </h3>
     </p>
     
