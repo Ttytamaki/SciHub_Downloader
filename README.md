@@ -70,6 +70,14 @@ Esse erro é um bug da atual versão do ChromeDrive;
 Não se preocupe! Caso aconteça, basta fazer o seguinte:
 - Vá para a linha logo abaixo, a primeira abaixo do texto e digite: **y** ou **Y**;
 
+**TL:DR**: Se aparecer algum erro do tipo:  <br />
+"[5016:6244:0325/220826.438:ERROR:ssl_client_socket_impl.cc(924)] handshake failed; returned -1, SSL error code 1, net_error -107" <br />
+ou <br />
+"USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema nÒo estß funcionando" <br />
+**Basta ignorar e continuar.** Esses são bugs conhecidos do ChromeDriver e, até o momento, não há uma solução para eles.
+
+
+
 
 
 ## To-do:
@@ -77,7 +85,7 @@ Não se preocupe! Caso aconteça, basta fazer o seguinte:
 
 - [ ] Aprimorar Download pelo Sci-Hub
    - [ ] Listas de Links/DOIs/Nomes;
-   - [ ] Renomear Arquivos livremente
+   - [x] Renomear Arquivos livremente (Almost rs)
 - [ ] Expandir para Downloads pelo Libgen
 - [ ] Criar uma interface (quem sabe, se o Mestrado deixar rs)
 
