@@ -65,9 +65,9 @@ Basta ir para linha abaixo, logo após do aviso, e digitar: **y** ou **Y**, como
 
 ## Bugs Conhecidos:
 Há um erro conhecido na atual versão do bot:
-"USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema nÒo estß funcionando"
-Esse erro é um bug da atual versão do ChromeDrive;
-Não se preocupe! Caso aconteça, basta fazer o seguinte:
+"USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema nÒo estß funcionando" <br />
+Esse erro é um bug da atual versão do ChromeDrive; <br />
+**Não se preocupe!** Caso aconteça, basta fazer o seguinte:
 - Vá para a linha logo abaixo, a primeira abaixo do texto e digite: **y** ou **Y**;
 
 **TL:DR**: Se aparecer algum erro do tipo:  <br />
