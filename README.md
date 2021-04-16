@@ -33,8 +33,11 @@
 
 ******
 
-
-
+<p align="center">
+  <bold> Atualmente, o Sci-Hub está com um problema para baixar artigos usando Links. Sugerimos priorizar a busca por DOI </bold>
+</p>
+  
+  
 ## O que é:
 Um pequeno código escrito em *python* que lhe permite automatizar download de artigos através do site Sci-Hub.
 <br />
